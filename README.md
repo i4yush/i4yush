@@ -2,7 +2,7 @@
 
 ### 🚀 Ayush(i4yush)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Fintech+%26+SaaS+Builder;Scalable+Systems+Architect)](https://github.com/i4yush)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Tech+%26+SaaS+Builder;Scalable+Systems+Architect)](https://github.com/i4yush)
 
 </div>
 
